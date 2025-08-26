@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+nav { margin-bottom: 20px; }
+.message { padding: 5px; margin: 5px 0; }
+.message.success { color: green; }
+.message.error { color: red; }
+.message.info { color: blue; }
